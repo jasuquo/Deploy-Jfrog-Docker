@@ -1,6 +1,6 @@
 ---
 - name: Install JFrog Artifactory in a Docker container with port mapping
-  hosts: web
+  hosts: myservers
   become: true
   vars:
     container_name: jfrog_artifactory
