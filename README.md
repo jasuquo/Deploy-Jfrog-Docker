@@ -1,5 +1,5 @@
 # Deploy-Jfrog-Docker with Ansible
-### Prequisites fopr this deploy ensure you hve ansible set up and configured 
+### Prequisites for this deploy ensure you have ansible set up and configured 
 ### create your ansible inventory file with your server blocks defined example below 
 ```
 [myservers]
